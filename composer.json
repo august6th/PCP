@@ -1,0 +1,5 @@
+{
+  "require": {
+    "fabpot/goutte" : "v3.2.3"
+  }
+}
